@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParserNowgoal", "ParserNowgoal.csproj", "{BF05B36F-61E4-4FB4-B3D2-7FD5072DD73F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF05B36F-61E4-4FB4-B3D2-7FD5072DD73F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF05B36F-61E4-4FB4-B3D2-7FD5072DD73F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF05B36F-61E4-4FB4-B3D2-7FD5072DD73F}.Debug|x64.ActiveCfg = Debug|x64
+		{BF05B36F-61E4-4FB4-B3D2-7FD5072DD73F}.Debug|x64.Build.0 = Debug|x64
+		{BF05B36F-61E4-4FB4-B3D2-7FD5072DD73F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF05B36F-61E4-4FB4-B3D2-7FD5072DD73F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF05B36F-61E4-4FB4-B3D2-7FD5072DD73F}.Release|x64.ActiveCfg = Release|x64
+		{BF05B36F-61E4-4FB4-B3D2-7FD5072DD73F}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E95C9B29-1AA6-4070-B56F-9A644CC11029}
+	EndGlobalSection
+EndGlobal
